@@ -1,0 +1,30 @@
+[
+    {
+      "id": "8aecf0a6-11f4-47c0-8705-a2e0d523ef48",
+      "title": "Projet 1",
+      "description": "Description du projet 1.",
+      "challenges": "Problématiques rencontrées et comment elles ont été surmontées.",
+      "skills": ["Compétence 1", "Compétence 2", "Compétence 3"],
+      "codeLink": "https://github.com/votre-nom/projet1",
+      "siteLink": "https://example.com/projet1"
+    },
+    {
+      "id": "b015d59d-0831-43c4-8395-f0ec38ff043e",
+      "title": "Projet 2",
+      "description": "Description du projet 2.",
+      "challenges": "Problématiques rencontrées et comment elles ont été surmontées.",
+      "skills": ["Compétence 1", "Compétence 2", "Compétence 3"],
+      "codeLink": "https://github.com/votre-nom/projet2",
+      "siteLink": "https://example.com/projet2"
+    },
+    {
+      "id": "65446066-8db2-4e75-8c4e-10daa21fa89e",
+      "title": "Projet 2",
+      "description": "Description du projet 2.",
+      "challenges": "Problématiques rencontrées et comment elles ont été surmontées.",
+      "skills": ["Compétence 1", "Compétence 2", "Compétence 3"],
+      "codeLink": "https://github.com/votre-nom/projet3",
+      "siteLink": "https://example.com/projet3"
+    }
+  ]
+  

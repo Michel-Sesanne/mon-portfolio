@@ -1,0 +1,17 @@
+@import '../../styles/variables';
+
+.home {
+    margin: 50px 0;
+}
+
+@media screen and (max-width: 1440px) {
+    .home {
+        margin: 50px 0;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .home {
+        margin: 27px 20px;
+    }    
+}

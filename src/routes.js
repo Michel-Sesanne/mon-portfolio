@@ -9,8 +9,9 @@ export default function AppRoutes() {
         <Routes>
            <Route path="/" element={<Home />} />
            <Route path="/about" element={<About />} />
-           <Route path="/Project/:id" element={<Project />} />
+           <Route path="/project/:id" element={<Project />} />
            <Route path="/error" element={<Error />} />
+           <Route path="*" element={<Error />} />
         </Routes>
     )
 }

@@ -1,11 +1,10 @@
-import logoWhite from './logoWhite.svg';
 import './footer.scss';
 
 export default function Footer() {
   return (
     <footer>
         <div itemscope itemtype="http://schema.org/Person">
-            <img src={logoWhite} alt="logo MS en noir et blanc" />
+            {/*import logoWhite from './logoWhite.svg';<img src={logoWhite} alt="logo MS en noir et blanc" />*/}
             <span itemprop="name">Michel Sesanne</span><br/>
             <span itemprop="jobTitle">Développeur web</span>
             <div itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">

@@ -9,7 +9,7 @@ export default function Navigation() {
           <NavLink to="/" activeclassname="active">Mes projets</NavLink>
         </li>
         <li>
-          <NavLink to="/about" activeclassname="active">A propos de moi</NavLink>
+          <NavLink to="/about" activeclassname="active">Mon profil</NavLink>
         </li>
       </ul>
     </nav>

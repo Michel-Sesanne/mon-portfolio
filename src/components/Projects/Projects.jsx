@@ -1,13 +1,12 @@
 import Masonry from 'react-masonry-css';
 import { useContext } from 'react';
 import ListeProjets from '../ListeProjets/ListeProjets';
-import Project from '../Project/Project';
+import Card from '../Card/Card';
 import './projects.scss';
 
 export default function Projects() {
   const breakpointColumnsObj = {
-    default: 3,
-    1400: 2,
+    default: 2,
     700: 1,
   };
 
@@ -20,7 +19,12 @@ export default function Projects() {
       columnClassName="my-masonry-grid_column"
     >
       {projects.map((project) => (
-        <Project key={project.id} project={project} />
+        <Card
+          key={project.id}
+          id={project.id}
+          title={project.title}
+          cover={project.cover}
+        />
       ))}
     </Masonry>
   );

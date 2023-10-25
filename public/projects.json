@@ -1,30 +1,45 @@
 [
     {
       "id": "8aecf0a6-11f4-47c0-8705-a2e0d523ef48",
-      "title": "Projet 1",
-      "description": "Description du projet 1.",
-      "challenges": "Problématiques rencontrées et comment elles ont été surmontées.",
-      "skills": ["Compétence 1", "Compétence 2", "Compétence 3"],
-      "codeLink": "https://github.com/votre-nom/projet1",
-      "siteLink": "https://example.com/projet1"
+      "title": "Nina Carducci, photographie",
+      "cover": "https://user.oc-static.com/upload/2022/06/22/16559176658498_595_P9_DIW%20-%20Inte%CC%81grateur%20Front-End%20%281%29.jpg",
+      "description": "Débuggue et optimisation d'un site de photographe",
+      "challenges": "La refonte du site original a présenté un défi complexe, car il était truffé d'erreurs et de mauvaises pratiques. J'ai entrepris un nettoyage complet, réécrivant ou réorganisant chaque composant, du HTML au CSS en passant par JavaScript. Cette tâche exigeante a été une opportunité d'apprentissage essentielle, m'aidant à identifier et à résoudre des problèmes courants, tout en renforçant mes compétences en développement web. Cela m'a également permis d'acquérir une meilleure compréhension de l'optimisation du référencement et de l'expérience utilisateur, un atout précieux pour mes projets futurs.",
+      "skills": ["Optimiser les performances d’un site web",
+                 "Débugger un site web grâce aux Chrome DevTools",
+                 "Rédiger un cahier de recette pour tester un site"
+                ],
+      "codeLink": "https://github.com/Michel-Sesanne/nina-carducci.git",
+      "siteLink": "https://michel-sesanne.github.io/nina-carducci/"
     },
     {
       "id": "b015d59d-0831-43c4-8395-f0ec38ff043e",
-      "title": "Projet 2",
-      "description": "Description du projet 2.",
-      "challenges": "Problématiques rencontrées et comment elles ont été surmontées.",
-      "skills": ["Compétence 1", "Compétence 2", "Compétence 3"],
-      "codeLink": "https://github.com/votre-nom/projet2",
-      "siteLink": "https://example.com/projet2"
+      "title": "Booki, voyage",
+      "cover": "https://user.oc-static.com/upload/2022/06/20/16557256333819_FR_1155_P3_Banner-Booki.png",
+      "description": "Création de la page d'accueil d'une agence de voyage avec HTML & CSS",
+      "challenges": "Un des principaux défis rencontrés lors du développement de l'interface front-end de ce site était d'assurer une expérience utilisateur cohérente et fluide sur une variété de dispositifs et de tailles d'écran. Cela a nécessité une attention particulière à la conception responsive, garantissant que le site s'adapte parfaitement aux smartphones, tablettes et ordinateurs de bureau, tout en maintenant l'esthétique et la convivialité.",
+      "skills": ["Implémenter une interface responsive avec HTML et CSS",
+                 "Intégrer du contenu conformément à une maquette avec HTML et CSS",
+                 "Versionner son projet avec Git et Github",
+                 "Installer un environnement de développement front-end"
+                ],
+      "codeLink": "https://github.com/Michel-Sesanne/Site-Booki.git",
+      "siteLink": "https://michel-sesanne.github.io/Site-Booki/"
     },
     {
       "id": "65446066-8db2-4e75-8c4e-10daa21fa89e",
-      "title": "Projet 2",
-      "description": "Description du projet 2.",
-      "challenges": "Problématiques rencontrées et comment elles ont été surmontées.",
-      "skills": ["Compétence 1", "Compétence 2", "Compétence 3"],
-      "codeLink": "https://github.com/votre-nom/projet3",
-      "siteLink": "https://example.com/projet3"
+      "title": "Kasa, location d'appartements entre particuliers",
+      "cover": "https://user.oc-static.com/upload/2022/06/24/16560899769906_FR_811_P8_Banner-Kasa%20%281%29.png",
+      "description": "Création d'une application web de location immobilière avec React",
+      "challenges": "Un défi central de ce projet a été de maîtriser React pour développer une interface web réactive. Il a fallu résoudre des questions telles que l'organisation des composants, la gestion de l'état de l'application, l'optimisation des performances, et la navigation entre les pages, pour créer une application web fonctionnelle et performante.",
+      "skills": ["Initialiser une application avec Create React App",
+                 "Développer des éléments de l'interface d'un site web grâce à des composants React",
+                 "Configurer la navigation entre les pages de l'application avec React Router",
+                 "Développer une interface web avec Sass",
+                 "Mettre en œuvre des animations CSS"
+                ],
+      "codeLink": "https://github.com/Michel-Sesanne/kasa.git",
+      "siteLink": "https://michel-sesanne.github.io/kasa/"
     }
   ]
   

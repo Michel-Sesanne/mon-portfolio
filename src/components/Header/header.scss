@@ -1,25 +1,26 @@
 header {
     max-width: 1240px;
-    margin: 45px auto 0; 
+    margin: 20px auto 0; 
     display: flex;
     justify-content: space-between;
+    align-items: center;
 
     img {
         border-radius: 50%;
-        width: 4rem;
-        height: 4rem;
+        width: 5rem;
+        height: 5rem;
     }
 }
 
 @media screen and (min-width: 769px) and (max-width: 1440px) {
     header {
-        margin: 45px 6.94vw 0;
+        margin: 20px 6.94vw 0;
     }
     
 }
 
 @media screen and (max-width: 768px) {
     header {
-        margin: 20px 20px 0;
+        margin: 10px 10px 0;
     }
 }

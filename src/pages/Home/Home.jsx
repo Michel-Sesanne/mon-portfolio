@@ -6,7 +6,7 @@ import './home.scss';
 export default function Home() {
   return (
     <div className='home'>
-        <Banner bannerImg={workspace} tagline="Michel SESANNE, développeur web" />
+        <Banner bannerImg={workspace} tagline="Michel SESANNE - Développeur Web" />
         <Projects />
     </div>
   );

@@ -1,10 +1,10 @@
 import { Link } from 'react-router-dom';
-import './project.scss'
+import './card.scss'
 
-export default function Project({ id, title, cover }) {
+export default function Card({ id, title, cover }) {
     return (
         <Link to={'/project/' + id} key={id} id={id}>
-            <article className="project">
+            <article className="card">
                 <div className='text-overlay'>
                     <h2>{title}</h2>
                 </div>                

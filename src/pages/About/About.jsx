@@ -11,22 +11,39 @@ export default function About() {
         <h1>Compétences</h1>
         <Collapse
           title='Frontend'
-          content=''
+          content={[
+            'HTML 5.0, CSS 3.0, JavaScript',
+            'React.js',
+            'Sass, jQuery, Bootstrap',
+          ]}
           size='Large'
         />
         <Collapse
           title='Backend'
-          content=''
+          content={[
+            'Node.js, bases de C++',
+            'MongoDB, bases de PostgreSQL',
+            'Algorithmes et structures de données'
+          ]}
           size='Large'
         />
         <Collapse
           title='SEO'
-          content=''
+          content={[
+            'Audit et optimisation de la performance web',
+            'Amélioration de l\'accessibilité web',
+            'Optimisation SEO avec Schema.org'
+          ]}
           size='Large'
         />
         <Collapse
           title='Outils et Logiciels'
-          content=''
+          content={[
+            'VS Code',
+            'Ligthhouse, GTMetrix',
+            'Figma',
+            'Trello'
+          ]}
           size='Large'
         />
       </section>      

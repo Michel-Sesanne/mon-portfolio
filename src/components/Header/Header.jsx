@@ -6,7 +6,7 @@ import './header.scss';
 export default function Header() {    
     return (
         <header>
-            <Link to="/">
+            <Link to="/mon-portfolio/">
                 <img src={portrait} alt="portrait de Michel" />
             </Link>            
             <Navigation />

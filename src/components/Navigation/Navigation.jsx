@@ -6,10 +6,10 @@ export default function Navigation() {
     <nav>
       <ul className="navigation">
         <li>
-          <NavLink to="/" activeclassname="active">Mes projets</NavLink>
+          <NavLink to="/mon-portfolio/" activeclassname="active">Mes projets</NavLink>
         </li>
         <li>
-          <NavLink to="/about" activeclassname="active">Mon profil</NavLink>
+          <NavLink to="/mon-portfolio/about" activeclassname="active">Mon profil</NavLink>
         </li>
       </ul>
     </nav>

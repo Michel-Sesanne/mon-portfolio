@@ -9,7 +9,7 @@ export default function Project() {
   const projet = projets.find((element) => element.id === id);
 
   if (!projet) {
-    return <Navigate to="/error" />;
+    return <Navigate to="/mon-portfolio/error" />;
   }  
 
   return (

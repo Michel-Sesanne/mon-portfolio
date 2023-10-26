@@ -7,12 +7,10 @@ import Error from './pages/Error/Error';
 export default function AppRoutes() {
     return (
         <Routes>
-           <Route path="/mon-portfolio" element={<Home />} />
-           <Route path="/" element={<Home />} />
-           <Route path="/about" element={<About />} />
-           <Route path="/project/:id" element={<Project />} />
-           <Route path="/error" element={<Error />} />
-           <Route path="*" element={<Error />} />
+           <Route path="/mon-portfolio/" element={<Home />} />
+           <Route path="/mon-portfolio/about" element={<About />} />
+           <Route path="/mon-portfolio/project/:id" element={<Project />} />
+           <Route path="/mon-portfolio/error" element={<Error />} />
         </Routes>
     )
 }

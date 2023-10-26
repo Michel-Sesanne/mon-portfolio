@@ -7,6 +7,7 @@ import Error from './pages/Error/Error';
 export default function AppRoutes() {
     return (
         <Routes>
+           <Route path="/mon-portfolio" element={<Home />} />
            <Route path="/" element={<Home />} />
            <Route path="/about" element={<About />} />
            <Route path="/project/:id" element={<Project />} />

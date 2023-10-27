@@ -40,7 +40,7 @@ export default function About() {
           title='Outils et Logiciels'
           content={[
             'VS Code',
-            'Ligthhouse, GTMetrix',
+            'Ligthhouse, GTMetrix, Wave',
             'Figma',
             'Trello'
           ]}

@@ -6,7 +6,7 @@ import './about.scss';
 export default function About() {
   return (
     <div className='about'>
-      <Banner bannerImg={studying} tagline='Formation : Développeur Web chez OpenClassrooms de mai à novembre 2023.'/>
+      <Banner bannerImg={studying} tagline='Formation : Développeur intégrateur web | OpenClassrooms-2023'/>
       <section className='competences'>
         <h1>Compétences</h1>
         <Collapse

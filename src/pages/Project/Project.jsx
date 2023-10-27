@@ -13,20 +13,9 @@ export default function Project() {
   }  
 
   return (
-    <section className='project'>      
-      <h3>{projet.title}</h3>
-      <p className="description">{projet.description}</p>
-      <p className="challenges">
-        <strong>Problématiques :</strong> {projet.challenges}
-      </p>
-      <p className="skills">
-        <strong>Compétences développées :</strong>
-        <ul>
-          {projet.skills.map((competence, index) => (
-            <li key={index}>{competence}</li>
-          ))}
-        </ul>
-      </p>
+    <article className='project'>      
+      <h1>{projet.title}</h1>
+      <p className="description">{projet.description}</p>           
       <div className="links">
         {projet.codeLink && (
           <a href={projet.codeLink} target="_blank" rel="noopener noreferrer">
@@ -39,6 +28,18 @@ export default function Project() {
           </a>
         )}
       </div>
-    </section>
+      <section className="skills">
+        <h2>Compétences développées :</h2>
+        <ul>
+          {projet.skills.map((competence, index) => (
+            <li key={index}>{competence}</li>
+          ))}
+        </ul>
+      </section>
+      <section className="challenges">
+        <h2>Problématiques :</h2>
+        <p>{projet.challenges}</p> 
+      </section> 
+    </article>
   );
 }

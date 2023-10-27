@@ -1,3 +1,5 @@
+@import '../../styles/variables';
+
 footer {
     background-color: black;
     font-size: 1.5rem;
@@ -10,20 +12,33 @@ footer {
 
     div {
         color: white;
-        margin: 29px auto;
+        margin: auto;
+        text-align: center;
+        padding: 18px;
+    }
+
+    a {
+        color: $main-color;
+        background-color: $bg-color;
+        padding: 5px 10px;
+        border-radius: 5px;
+
+        &:hover {
+            color: $bg-color;
+            background-color: $main-color;
+        }
     }
 }
 
-@media screen and (max-width: 480px) {
+/*@media screen and (max-width: 480px) {
     footer {
         font-size: 0.75rem;
         justify-content: center;
 
         div {
             margin: 0;
-            padding-top: 8px;
+            
             width: 134px;
-            text-align: center;
         }
     }
-}
+}*/

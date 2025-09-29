@@ -1,5 +1,20 @@
 [
     {
+      "id": "52e66b16-983b-4fda-9bdc-b1a79b4309c8",
+      "title": "Site vitrine artisan électricien / serrurier",
+      "cover": "https://michel-sesanne.github.io/mon-portfolio/images/cover-idelec.png", 
+      "description": "Création d’un site vitrine moderne et responsive pour un artisan électricien / serrurier basé à Lyon. Le site met en avant ses services, ses coordonnées et un formulaire de contact simple afin d’améliorer sa visibilité locale.",
+      "challenges": "Le défi principal a été de traduire les besoins d’un artisan peu familier avec le digital en un site clair et efficace. J’ai choisi React pour développer une interface rapide et responsive. J’ai également travaillé sur l’optimisation SEO basique afin de faciliter le référencement local sur Google.",
+      "skills": [
+        "Développement complet d’un site vitrine en React",
+        "Conception responsive (mobile-first)",
+        "Mise en place d’un formulaire de contact fonctionnel",
+        "Optimisation SEO de base"
+      ],
+      "codeLink": "https://github.com/Michel-Sesanne/newid.git",
+      "siteLink": "https://www.idelectriciteserrurerie.fr/"
+    },
+    {
       "id": "8aecf0a6-11f4-47c0-8705-a2e0d523ef48",
       "title": "Nina Carducci, photographie",
       "cover": "https://user.oc-static.com/upload/2022/06/22/16559176658498_595_P9_DIW%20-%20Inte%CC%81grateur%20Front-End%20%281%29.jpg",

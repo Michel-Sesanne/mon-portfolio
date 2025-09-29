@@ -3,12 +3,12 @@
       "id": "52e66b16-983b-4fda-9bdc-b1a79b4309c8",
       "title": "Site vitrine artisan électricien / serrurier",
       "cover": "https://michel-sesanne.github.io/mon-portfolio/images/cover-idelec.png", 
-      "description": "Création d’un site vitrine moderne et responsive pour un artisan électricien / serrurier basé à Lyon. Le site met en avant ses services, ses coordonnées et un formulaire de contact simple afin d’améliorer sa visibilité locale.",
-      "challenges": "Le défi principal a été de traduire les besoins d’un artisan peu familier avec le digital en un site clair et efficace. J’ai choisi React pour développer une interface rapide et responsive. J’ai également travaillé sur l’optimisation SEO basique afin de faciliter le référencement local sur Google.",
+      "description": "Réalisation complète d’un site vitrine pour un artisan électricien et serrurier. Le site présente ses services et permet de le contacter directement par téléphone, email ou via sa page Facebook, sans passer par un formulaire classique. L’objectif principal était de créer une interface claire, moderne et facilement accessible pour ses clients.",
+      "challenges": "Ce projet a représenté une étape importante car, au-delà du développement technique, j’ai dû gérer l’achat du nom de domaine et le paramétrage de son hébergement. Cela m’a permis de mieux comprendre les aspects concrets de la mise en ligne d’un site professionnel : configuration DNS, liaison avec l’hébergement et vérification du bon fonctionnement sur différents supports. Côté intégration, j’ai privilégié une structure simple et responsive afin de mettre en avant l’essentiel : les coordonnées de l’artisan et la lisibilité de ses prestations.",
       "skills": [
-        "Développement complet d’un site vitrine en React",
-        "Conception responsive (mobile-first)",
-        "Mise en place d’un formulaire de contact fonctionnel",
+        "Créer un site vitrine responsive et accessible",
+        "Mettre en ligne un site avec nom de domaine personnalisé",
+        "Configurer DNS et hébergement d’un site",
         "Optimisation SEO de base"
       ],
       "codeLink": "https://github.com/Michel-Sesanne/newid.git",

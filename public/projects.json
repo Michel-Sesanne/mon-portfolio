@@ -4,8 +4,8 @@
       "title": "Sudoku Solver",
       "description": "Une application Python + Streamlit qui résout automatiquement n'importe quel Sudoku.",
       "codeLink": "https://github.com/Michel-Sesanne/sudoku-solver",
-      "siteLink": "https://michel-sesanne.github.io/mon-portfolio/images/cover-sudoku-solver.png",
-      "cover": "/images/sudoku-cover.jpg",
+      "siteLink": "https://appsudokupy-r9nzdmudmftkrwdduxmxvh.streamlit.app",
+      "cover": "https://michel-sesanne.github.io/mon-portfolio/images/cover-sudoku-solver.png",
       "skills": ["Python", "Streamlit", "Algorithmie", "Backtracking"],
       "challenges": "Réaliser un solveur efficace basé sur la recherche récursive et l'intégrer dans une interface web avec Streamlit."
   },

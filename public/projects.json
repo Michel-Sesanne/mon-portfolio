@@ -1,5 +1,15 @@
 [
     {
+      "id": "sudoku-solver",
+      "title": "Sudoku Solver",
+      "description": "Une application Python + Streamlit qui résout automatiquement n'importe quel Sudoku.",
+      "codeLink": "https://github.com/Michel-Sesanne/sudoku-solver",
+      "siteLink": "https://michel-sesanne.github.io/mon-portfolio/images/cover-sudoku-solver.png",
+      "cover": "/images/sudoku-cover.jpg",
+      "skills": ["Python", "Streamlit", "Algorithmie", "Backtracking"],
+      "challenges": "Réaliser un solveur efficace basé sur la recherche récursive et l'intégrer dans une interface web avec Streamlit."
+  },
+    {
       "id": "52e66b16-983b-4fda-9bdc-b1a79b4309c8",
       "title": "Site vitrine artisan électricien / serrurier",
       "cover": "https://michel-sesanne.github.io/mon-portfolio/images/cover-idelec.png", 
@@ -21,7 +31,7 @@
       "description": "Debug et optimisation d'un site de photographe",
       "challenges": "La refonte du site original a présenté un défi complexe, car il était truffé d'erreurs et de mauvaises pratiques. J'ai entrepris un nettoyage complet, réécrivant ou réorganisant chaque composant, du HTML au CSS en passant par JavaScript. Cette tâche exigeante a été une opportunité d'apprentissage essentielle, m'aidant à identifier et à résoudre des problèmes courants, tout en renforçant mes compétences en développement web. Cela m'a également permis d'acquérir une meilleure compréhension de l'optimisation du référencement et de l'expérience utilisateur, un atout précieux pour mes projets futurs.",
       "skills": ["Optimiser les performances d’un site web",
-                 "Débugger un site web grâce aux Chrome DevTools",
+      "Débugger un site web grâce aux Chrome DevTools",
                  "Rédiger un cahier de recette pour tester un site"
                 ],
       "codeLink": "https://github.com/Michel-Sesanne/nina-carducci.git",
